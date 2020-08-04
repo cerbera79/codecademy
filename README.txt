@@ -1,0 +1,1 @@
+This folder contains the SQL files associated with my population project.
